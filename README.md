@@ -3,6 +3,27 @@ Ryoichi Takeuchi
 
 Osaka Institute of Technology
 
+## 学会発表
+- 奥行方向の引っ張り力錯覚の強調について,情報処理学会インタラクション2017
+
+    http://www.interaction-ipsj.org/proceedings/2017/data/pdf/3-409-74.pdf
+
+- 奥行方向における引っ張り力錯覚の強調,ヒューマンインタフェースシンポジウム2017
+
+    http://tactus.is.oit.ac.jp/pukiwiki/index.php?plugin=attach&refer=%E7%A0%94%E7%A9%B6%E3%83%86%E3%83%BC%E3%83%9E&openfile=his2017.pdf
+
+- コーナーキューブ型モニタを用いた逆遠近法に基づく映像提示の立体感誘起パラメータの評価,情報処理学会インタラクション2018
+
+    デモ発表予定
+
+- 逆遠近法における立体感誘起パラメータ検証のための映像提示シミュレーション環境の構築,2018年電子情報通信学会総合大会
+
+    一般発表予定
+
+- Verification of stereoscopic effect induced parameters of 3D shape monitor using reverse perspective,HCIInternational 2018
+
+    ポスター発表予定
+
 
 ## 学部生期間(2016.4-2017.3)
 ### 錯触覚を用いたVR押し込みボタンの作成(Repositry非公開)
