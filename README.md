@@ -15,9 +15,9 @@ https://youtu.be/wV12GoEAJJg
 ### wallpaperEngineにUnityアプリケーションを利用(Repository非公開)
 動画アップロード準備中
 
--概要:WallPaperEngineというソフトを利用することでデスクトップの壁紙にUnityのアプリケーションを利用できる。クリックで泡を消すシンプルなアプリケーションを作成。
+- 概要:WallPaperEngineというソフトを利用することでデスクトップの壁紙にUnityのアプリケーションを利用できる。クリックで泡を消すシンプルなアプリケーションを作成。
 
--使用機材:Unity
+- 使用機材:Unity
 
 ***
 ### 引っ張り力錯覚を用いたスリングショット射的ゲーム(Repository非公開)
